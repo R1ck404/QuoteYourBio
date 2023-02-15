@@ -6,4 +6,5 @@ The code is designed to be lightweight and fast, with a straightforward structur
 
 Whether you're looking to spice up your GitHub profile or simply express your admiration for your favorite programmer, the Programmer Quote Bio is the perfect tool for you. Give it a try and see how it can enhance your programming experience!
 
+**Special thanks to Omer Mohideen (/OmerMohideen) for providing us with this api, if your interested then its worth checking it out:** https://programming-quotesapi.vercel.app/
 > *Written in Python 3.x*
